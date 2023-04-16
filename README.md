@@ -1,6 +1,6 @@
 #  <p align =center>SWEAT SMART</p>
 <p align="center">
-  <img width="200" src="https://github.com/suyash-9/careMed/blob/main/public/images/zenDocLogo.PNG" alt="Material Bread logo">
+  <img width="200" src="https://github.com/suyash-9/sweatSmart/blob/main/public/assets/images/logo_.png" alt="Material Bread logo">
 </p>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -39,8 +39,9 @@ Fitness has become a top priority for many people in recent years, and the rise 
 ## Preview
 
 
-![Login](https://github.com/suyash-9/careMed/blob/main/public/images/Login.png)
-![Form](https://github.com/suyash-9/careMed/blob/main/public/images/Previous%20Submission%20Form.png)
+![Login](https://github.com/suyash-9/sweatSmart/blob/main/public/preview1.png)
+![Form](https://github.com/suyash-9/sweatSmart/blob/main/public/preview2.png)
+![Form](https://github.com/suyash-9/sweatSmart/blob/main/public/preview3.png)
 
 
  
